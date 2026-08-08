@@ -43,8 +43,8 @@ Meu trabalho é estritamente pautado em boas práticas de engenharia de software
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunabbtech&show_icons=true&theme=dracula&hide_border=true" height="150" alt="Estatísticas do GitHub de Bruna" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunabbtech&layout=compact&theme=dracula&hide_border=true" height="150" alt="Linguagens mais utilizadas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brunabbtech&theme=dracula&hide_border=true" height="150" alt="Estatísticas de Contribuição do GitHub" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brunabbtech&theme=dracula" height="150" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
