@@ -1,6 +1,6 @@
 # Olá, eu sou Bruna Borges 👋
 
-### 👩‍💻 Analista de Sistemas | DBA | Engenharia de Dados
+### 👩‍💻 Analista de Sistemas | DBA 
 📍 *Rio de Janeiro, Brasil*
 
 Profissional de tecnologia com sólida experiência na administração, modelagem e otimização (*tuning*) de bancos de dados relacionais. Atuo com foco em arquitetura de dados, engenharia, infraestrutura e segurança da informação, garantindo a alta disponibilidade e integridade de sistemas críticos. 
